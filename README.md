@@ -1,4 +1,4 @@
-# smart-campus-energy-consumption-analysis
+# Smart-Campus-Energy-Consumption-Analysis
 Power BI dashboard project analyzing campus electricity consumption patterns.
 ## Project Overview
 This project focuses on analyzing electricity consumption patters across different buildings in a smart campus environment using Microsoft Power BI.
